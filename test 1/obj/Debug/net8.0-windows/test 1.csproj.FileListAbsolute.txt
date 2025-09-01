@@ -1,0 +1,16 @@
+C:\Users\MS-16R\source\repos\test 1\obj\Debug\net8.0-windows\test_1.Form1.resources
+C:\Users\MS-16R\source\repos\test 1\obj\Debug\net8.0-windows\test 1.csproj.GenerateResource.cache
+C:\Users\MS-16R\source\repos\test 1\obj\Debug\net8.0-windows\test 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MS-16R\source\repos\test 1\obj\Debug\net8.0-windows\test 1.AssemblyInfoInputs.cache
+C:\Users\MS-16R\source\repos\test 1\obj\Debug\net8.0-windows\test 1.AssemblyInfo.cs
+C:\Users\MS-16R\source\repos\test 1\obj\Debug\net8.0-windows\test 1.csproj.CoreCompileInputs.cache
+C:\Users\MS-16R\source\repos\test 1\bin\Debug\net8.0-windows\test 1.exe
+C:\Users\MS-16R\source\repos\test 1\bin\Debug\net8.0-windows\test 1.deps.json
+C:\Users\MS-16R\source\repos\test 1\bin\Debug\net8.0-windows\test 1.runtimeconfig.json
+C:\Users\MS-16R\source\repos\test 1\bin\Debug\net8.0-windows\test 1.dll
+C:\Users\MS-16R\source\repos\test 1\bin\Debug\net8.0-windows\test 1.pdb
+C:\Users\MS-16R\source\repos\test 1\obj\Debug\net8.0-windows\test 1.dll
+C:\Users\MS-16R\source\repos\test 1\obj\Debug\net8.0-windows\refint\test 1.dll
+C:\Users\MS-16R\source\repos\test 1\obj\Debug\net8.0-windows\test 1.pdb
+C:\Users\MS-16R\source\repos\test 1\obj\Debug\net8.0-windows\test 1.genruntimeconfig.cache
+C:\Users\MS-16R\source\repos\test 1\obj\Debug\net8.0-windows\ref\test 1.dll
